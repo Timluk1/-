@@ -5,5 +5,8 @@ third-task-A.txt, third-task-B.txt - файлы для сложной задач
 
 first-task.py - легкая задача<br />
 second-task.py - средняя задача<br />
-third-task.py - сложная задача
+third-task.py - сложная задача<br />
+
+условия заданий в комментариях в питоновских файлах
+
 
