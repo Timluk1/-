@@ -1,0 +1,5 @@
+ОТВЕТЫ НА ЗАДАЧИ:
+
+first-task - 13
+second-task - 100 150050
+third-task - 15 184
